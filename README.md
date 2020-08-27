@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=vue-dark&repo=AI-Resources&show_owner=true)](https://github.com/quickgrid/AI-Resources)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=dracula&repo=AI-Resources&show_owner=true)](https://github.com/quickgrid/AI-Resources)
