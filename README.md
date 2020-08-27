@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **quickgrid/quickgrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=nightowl&repo=AI-Resources&show_owner=false)](https://github.com/quickgrid/AI-Resources) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=nightowl&repo=CodeLab&show_owner=false)](https://github.com/quickgrid/AI-Resources)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=nightowl&repo=AI-Resources&show_owner=false)](https://github.com/quickgrid/AI-Resources) 
