@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=radical&repo=AI-Resources&show_owner=true)](https://github.com/quickgrid/AI-Resources)
+
+[![ReadMe Card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quickgrid&layout=compact&theme=radical)
