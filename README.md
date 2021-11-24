@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=quickgrid&align=center&theme=ayu-mirage&repo=AI-Resources&show_owner=false)](https://github.com/quickgrid/AI-Resources) 
+-->
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1689698&layout=compact)](https://stackoverflow.com/users/1689698/b200011011)
